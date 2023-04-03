@@ -1,0 +1,4 @@
+Enquanto o user digitar algo
+dando "enter" ou não para pular uma linha
+o conteudo só será gravado assim que apertar "enter"
+sem nenhum tipo de conteudo na linha.
