@@ -118,6 +118,7 @@ fabric.properties
 ### Java ###
 # Compiled class file
 *.class
+.attach_*
 
 # Log file
 *.log
